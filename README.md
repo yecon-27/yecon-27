@@ -1,4 +1,4 @@
-## Hi👋 I am Yee 😄 Apache Conrtibutor
+## Hi👋 I am Yee 👩 Apache Conrtibutor
 
 🌟Looking for FRONT-END DEVELOP Job.🌟
 
