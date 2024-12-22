@@ -1,9 +1,11 @@
-## Hi, Ava here 👋
+## Hi👋 I am Yee 😄 Apache Conrtibutor
 
-I'm Ye Cong, a college student from Wenzhou, China.
+🌟Looking for FRONT-END DEVELOP Job.🌟
 
-- 🔨 Java |Python, a little bit shell, html, CSS, JavaScript
-- 🌱 Learning nartual language processing, unmanned vehicle, front-end development
-- ✏️ Eclipse & UML & Bash shell & Pycharm & VS Code & Jupyter Notebook
-- 😄 Pronouns: she/her
+I'm building a website in Artistic Healing. If you want to join me, feel free to reach out to me anytime at **cye79698@gmail.com**.
 
+- 🔨 Java | Python | Basic Shell scripting | HTML | CSS | JavaScript
+- 🌱 Front-end Development | AI and Machine Learning Models | Introduction to Algorithms
+- ✏️ Eclipse | UML | Bash Shell | PyCharm | VS Code | Jupyter Notebook
+
+A feminist. Dreaming to be a full-stack develop engineer.🙆‍♀️
