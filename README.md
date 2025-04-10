@@ -8,4 +8,4 @@ I'm building a website in Artistic Healing. If you want to join me, feel free to
 - 🌱 Front-end Development | AI and Machine Learning Models | Introduction to Algorithms
 - ✏️ Eclipse | UML | Bash Shell | PyCharm | VS Code | Jupyter Notebook
 
-A feminist. Dreaming to be a full-stack develop engineer.🙆‍♀️
+A feminist. Divergent thinking. Dreaming to be a full-stack develop engineer.🙆‍♀️
