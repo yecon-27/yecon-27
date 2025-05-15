@@ -2,10 +2,14 @@
 
 🌟Looking for FRONT-END DEVELOP Job.🌟
 
-I'm building a website in Artistic Healing. If you want to join me, feel free to reach out to me anytime at **cye79698@gmail.com**.
+Interests: Front-end Development, Machine Learning, Algorithm Design
 
-- 🔨 Java | Python | Basic Shell scripting | HTML | CSS | JavaScript
-- 🌱 Front-end Development | AI and Machine Learning Models | Introduction to Algorithms
-- ✏️ Eclipse | UML | Bash Shell | PyCharm | VS Code | Jupyter Notebook
+Languages: Java, Python, Shell Script, HTML, CSS, JavaScript
 
-A feminist. Divergent thinking. Dreaming to be a full-stack develop engineer.🙆‍♀️
+🌱 I'm building a website in Artistic Healing.
+
+Currently learning: Spring Boot (Back-end) & Vue 3 (Front-end framework) 
+
+Planning to use them to build a full-stack web application for my **Artistic Healing** project.
+
+If you want to join me, feel free to reach out to me anytime at **cye79698@gmail.com**..🙆‍♀️
