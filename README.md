@@ -12,4 +12,4 @@ Currently learning: Spring Boot (Back-end) & Vue 3 (Front-end framework)
 
 Planning to use them to build a full-stack web application for my **Artistic Healing** project.
 
-If you want to join me, feel free to reach out to me anytime at **cye79698@gmail.com**..🙆‍♀️
+If you want to join me, feel free to reach out to me anytime at **yeconwku2027@hotmail.com**..🙆‍♀️
