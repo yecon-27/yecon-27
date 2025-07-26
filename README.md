@@ -1,6 +1,6 @@
-## 👋 Hey, I'm Ava Yee
+## 👋 Hey there
 
-**Full-Stack Dev | Apache Contributor | Side Project Addict**
+![Typing SVG](https://readme-typing-svg.demolab.com/demo/?color=9275F7&center=true&vCenter=true&lines=I'm+Ava+Yee+Cong;Vibe-Coding+Engineer;Indie+Developer;Nice+to+meet+you%EF%BC%81)
 
 I build things for the web. Love clean UIs, solid backends, and the open source spirit.  
 Currently hacking on a wellness-tech project mixing frontend, backend, and a little AI.
