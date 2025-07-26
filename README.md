@@ -1,15 +1,51 @@
-## Hi👋 I am Yee 👩 Apache Conrtibutor
+## 👋 Hey, I'm Yee
 
-🌟Looking for FRONT-END DEVELOP Job.🌟
+**Full-Stack Dev | Apache Contributor | Side Project Addict**
 
-Interests: Front-end Development, Machine Learning, Algorithm Design
+I build things for the web. Love clean UIs, solid backends, and the open source spirit.  
+Currently hacking on a wellness-tech project mixing frontend, backend, and a little AI.
 
-Languages: Java, Python, Shell Script, HTML, CSS, JavaScript
+---
 
-🌱 I'm building a website in Artistic Healing.
+## 🔧 Tech I Use
 
-Currently learning: Spring Boot (Back-end) & Vue 3 (Front-end framework) 
+**Frontend**: Vue 3, TypeScript, Vite, Element Plus  
+**Backend**: Spring Boot, MySQL, Redis, RuoYi  
+**Tools**: Git, Vercel, Apache, Postman, Docker
 
-Planning to use them to build a full-stack web application for my **Artistic Healing** project.
+---
 
-If you want to join me, feel free to reach out to me anytime at **yeconwku2027@hotmail.com**..🙆‍♀️
+## 🔭 Projects I Care About
+
+### 🐉 Dragon Boat Voting System
+Built a full-stack voting app with Vue + Spring Boot. Realtime ranking, user auth, admin panel, CI/CD.  
+Used in a real cultural festival 🛶
+
+### 🎨 Artistic Healing *(WIP)*
+A digital therapy platform using ML + UI for healing.  
+Where tech meets mindfulness.
+
+---
+
+## 🚀 What I’m Into Lately
+
+- Frontend engineering patterns (Vue 3 + TS)
+- DevOps stuff (CI/CD, deploy workflows)
+- Spring Boot microservices
+- Playing with LLMs + wellness apps
+
+---
+
+## 🤝 Let’s Connect
+
+- **GitHub**: [@yecon-27](https://github.com/yecon-27)
+- **Email**: [yeconwku2027@hotmail.com](mailto:yeconwku2027@hotmail.com)
+- **LinkedIn**: *(Add your link)*
+
+> I like meaningful side projects, geeky convos, and building things that feel good to use.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yecon-27&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
