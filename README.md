@@ -1,6 +1,6 @@
 ## 👋 Hey there
 
-![Typing SVG](https://readme-typing-svg.demolab.com/demo/?color=9275F7&center=true&vCenter=true&lines=I'm+Ava+Yee+Cong;Vibe-Coding+Engineer;Indie+Developer;Nice+to+meet+you%EF%BC%81)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9275F7&center=true&vCenter=true&width=435&lines=I'm+Ava+Yee+Cong;Vibe-Coding+Engineer;Indie+Developer;Nice+to+meet+you%EF%BC%81)](https://git.io/typing-svg)
 
 I build things for the web. Love clean UIs, solid backends, and the open source spirit.  
 Currently hacking on a wellness-tech project mixing frontend, backend, and a little AI.
