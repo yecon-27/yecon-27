@@ -38,7 +38,6 @@ Where tech meets mindfulness.
 
 ## 🤝 Let’s Connect
 
-- **GitHub**: [@yecon-27](https://github.com/yecon-27)
 - **Email**: [cye79698@gmail.com](mailto:yeconwku2027@hotmail.com)
 - **LinkedIn**: [Cong Ye](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
