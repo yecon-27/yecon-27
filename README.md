@@ -11,7 +11,7 @@ Currently hacking on a wellness-tech project mixing frontend, backend, and a lit
 
 **Frontend**: Vue 3, TypeScript, Vite, Element Plus  
 **Backend**: Spring Boot, MySQL, Redis, RuoYi  
-**Tools**: Git, Vercel, Apache, Postman, Docker
+**Tools**: Git, Vercel, Apache, Postman, Docker, Axios
 
 ---
 
