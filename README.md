@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=yecon-27&color=blueviolet&style=flat-square&label=Views" />  
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9275F7&center=true&vCenter=true&width=435&lines=👋I'm+Ava+Yee+Cong;Vibe-Coding+Engineer;Indie+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9275F7&center=true&vCenter=true&width=435&lines=Hey+there+(｡･∀･)ﾉﾞ;👋I'm+Ava+Yee+Cong;Vibe-Coding+Engineer;Indie+Developer)](https://git.io/typing-svg)
 
 💻 Web dev |  🧠 Neurodiversity explorer  
 🚧 Currently hacking wellness-tech (frontend + backend + AI)
