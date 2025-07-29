@@ -27,7 +27,7 @@
 
 Vue + TS · Spring Boot · CI/CD · AI × Mental Health  
 
-### 🤝 Feel free to connect with me.
+### 🤝 Let's connect
 
 - **Email**: [cye79698@gmail.com](mailto:yeconwku2027@hotmail.com)
-- **LinkedIn**: [Cong Ye](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) ☺️ I regularly share my growth reflections and insights on technology, neurodiversity, and wellness.
+- **LinkedIn**: [Cong Ye](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) ☺️ I regularly share my growth reflections and insights on AI, neurodiversity, and wellness. Feel free to connect with me if you are interested in those topic.
