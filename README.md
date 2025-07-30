@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9275F7&center=true&vCenter=true&width=435&lines=Hey+there+(｡･∀･)ﾉﾞ;👋I'm+Ava+Yee+Cong;Vibe-Coding+Engineer;Indie+Developer)](https://git.io/typing-svg)
 
 💻 Web dev（ Front-end enginner） |  🧠 Neurodiversity explorer  
-🚧 Currently hacking a AI full-stack project: `qian-nian-long-zhou`
+🚧 Currently hacking an AI full-stack (Vue3+SpringBoot-Ruoyi) project: `qian-nian-long-zhou`
 
 ### 🛠️ Tech Stack  
 
