@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9275F7&center=true&vCenter=true&width=435&lines=Hey+there+(｡･∀･)ﾉﾞ;👋I'm+Ava+Yee+Cong;Vibe-Coding+Engineer;Indie+Developer)](https://git.io/typing-svg)
 
-💻 Web dev |  🧠 Neurodiversity explorer  
-🚧 Currently hacking wellness-tech (frontend + backend + AI)
+💻 Web dev（ Front-end enginner） |  🧠 Neurodiversity explorer  
+🚧 Currently hacking a AI full-stack project: `qian-nian-long-zhou`
 
 ### 🛠️ Tech Stack  
 
@@ -20,13 +20,16 @@
 
 ### 🚀 Projects  
 
-🎨 **Artistic Healing (WIP)** – ML + UI for digital therapy  
+**Artistic Healing (WIP)** – ML + UI for digital therapy  
 
-### 🌱 Interests  
+### 🌱 Intern  
 
-Vue + TS · Spring Boot · CI/CD · AI × Mental Health  
+`2025.7`- `present` : 瑞安融媒体数据科技中心-数据要素专班(Media Integration Data Technology Center - Data Elements Special Team)
 
 ### 🤝 Let's connect
 
 - **Email**: [cye79698@gmail.com](mailto:yeconwku2027@hotmail.com)
-- **LinkedIn**: [Cong Ye](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) ☺️ I regularly share my growth reflections and insights on AI, neurodiversity, and wellness. Feel free to connect with me if you are interested in those topic.
+- **LinkedIn**: [Cong Ye](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 
+- **Wechat**: `钰影浅棠` || **id**: `beingisbecoming25` || **Public Account**: `玫瑰无限`
+  
+☺️ I regularly share my growth reflections and insights on AI, neurodiversity, and wellness. Feel free to connect with me if you are interested in those topic.
