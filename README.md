@@ -6,8 +6,6 @@
 
 💻 Front-end enginner |  🧠 Neurodiversity explorer  | CS Junior @Wenzhou Kean University
 
-🚧 Currently hacking an AI full-stack (Vue3+SpringBoot-Ruoyi) project: `qian-nian-long-zhou`
-
 ### 🛠️ Tech Stack  
 
 **Frontend**  
@@ -21,7 +19,9 @@
 
 ### 🚀 Projects  
 
-**Artistic Healing (WIP)** – ML + UI for digital therapy  
+**Blog (WIP)**
+**Artistic Healing (WIP)**
+**qian-nian-long-zhou (done)** - A mobile-first cultural experience app integrating real-time interaction and multimedia content.
 
 ### 🌱 Intern  
 
