@@ -35,4 +35,4 @@
 - **LinkedIn**: [Cong Ye](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 
 - **Wechat**: `钰影浅棠` || **id**: `beingisbecoming25` || **Public Account**: `玫瑰无限`
   
-☺️ I regularly share my growth reflections and insights on AI, neurodiversity, and wellness. Feel free to connect with me if you are interested in those topic.
+☺️ I regularly share my growth reflections and insights on AI, neurodiversity, and job-experience. Feel free to connect with me if you are interested in those topic.
