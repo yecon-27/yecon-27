@@ -21,8 +21,6 @@
 
 **qian-nian-long-zhou (done)** - A mobile-first cultural experience app integrating real-time interaction and multimedia content.
 
-**Blog: knowledge database (WIP)**
-
 ### 🌱 Intern  
 
 `2025.7`- `present` : 瑞安融媒体数据科技中心-数据要素专班(Media Integration Data Technology Center - Data Elements Special Team)
