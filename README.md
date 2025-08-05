@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9275F7&center=true&vCenter=true&width=435&lines=Hey+there+(｡･∀･)ﾉﾞ;👋I'm+Ava+Yee+Cong;Vibe-Coding+Engineer;Indie+Developer)](https://git.io/typing-svg)
 
-💻 Java enginner |  🧠 Neurodiversity explorer  | CS Junior @Wenzhou Kean University
-
 ### 🛠️ Tech Stack  
 
 **Frontend**  
@@ -31,7 +29,7 @@
 
 ### 🤝 Let's connect
 
-- **Email**: [cye79698@gmail.com](mailto:yeconwku2027@hotmail.com)
+- **Email**: [cye79698@gmail.com](mailto:cye79698@gmail.com)
 - **LinkedIn**: [Cong Ye](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 
 - **Wechat**: `钰影浅棠` || **id**: `beingisbecoming25` || **Public Account**: `玫瑰无限`
   
