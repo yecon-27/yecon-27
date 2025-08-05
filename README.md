@@ -17,11 +17,11 @@
 
 ### 🚀 Projects  
 
-**Blog (WIP)**
-
 **rain-of-coupon (WIP)**
 
 **qian-nian-long-zhou (done)** - A mobile-first cultural experience app integrating real-time interaction and multimedia content.
+
+**Blog: knowledge database (WIP)**
 
 ### 🌱 Intern  
 
