@@ -23,12 +23,6 @@
 
 ### 🌱 Intern  
 
-`2025.7`- `present` : 瑞安融媒体数据科技中心-数据要素专班(Media Integration Data Technology Center - Data Elements Special Team)
+`2025.7`- `present` : 全栈开发实习生
+瑞安融媒体数据科技中心-数据要素专班(Media Integration Data Technology Center - Data Elements Special Team)
 
-### 🤝 Let's connect
-
-- **Email**: [cye79698@gmail.com](mailto:cye79698@gmail.com)
-- **LinkedIn**: [Cong Ye](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 
-- **Wechat**: `钰影浅棠` || **id**: `beingisbecoming25` || **Public Account**: `玫瑰无限`
-  
-☺️ I regularly share my growth reflections and insights on AI, neurodiversity, and job-experience. Feel free to connect with me if you are interested in those topic.
