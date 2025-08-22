@@ -17,9 +17,9 @@
 
 ### Projects  
 
-**rain-of-coupon**⭐️⭐️ - A mobile-first Chinese-cultural experience app（full stack），espcially implementing coupon-lottery（multiple-round）and traffic detecting（concurrency control）.
+**rain-of-coupon**⭐️⭐️ - A mobile-first Chinese-cultural experience app（full stack），espcially implementing coupon-lottery（multiple-round）and traffic detecting（concurrency control）functionalities.
 
-**qian-nian-long-zhou**⭐️ - A mobile-first Chinese-cultural experience app（full stack），espcially implementing voting and ranking functionality.
+**qian-nian-long-zhou**⭐️ - A mobile-first Chinese-cultural experience app（full stack），espcially implementing voting and ranking functionalities.
 
 ###  Intern  
 _Software Engineer Intern (Full-stack)_
