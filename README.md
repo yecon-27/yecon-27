@@ -15,14 +15,7 @@
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-CC2222?logo=apachemaven&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)  
 
-### Projects  
-
-rain-of-coupon ⭐️⭐️ – Mobile-first Chinese cultural app (full stack) with multi-round coupon lottery and concurrency-controlled traffic management.
-
-qian-nian-long-zhou ⭐️ – Mobile-first Chinese cultural app (full stack) with voting and ranking features.
-
 ###  Intern  
 _Software Engineer Intern (Full-stack)_
 
 `2025.7`- `present` : Media Integration Data Technology Center - Data Elements Special Team
-
