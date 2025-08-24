@@ -2,9 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=yecon-27&color=blueviolet&style=flat-square&label=Views" />  
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=9275F7&center=true&vCenter=true&width=435&lines=Nice+to+meet+you+my+friend;Here+is+Ava.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=9275F7&center=true&vCenter=true&width=435&lines=You+found+me😳😳😳;Nice+to+meet+you+my+friend.;)](https://git.io/typing-svg)
 
-### Tech Stack  
+### Ava's Tech Stack  
 
 **Frontend**  
 ![Vue3](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)  ![Element Plus](https://img.shields.io/badge/Element--Plus-409EFF?logo=element&logoColor=white)  
