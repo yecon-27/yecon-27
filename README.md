@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=yecon-27&color=blueviolet&style=flat-square&label=Views" />  
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=9275F7&center=true&vCenter=true&width=435&lines=!!!You+found+me+(｡･∀･)ﾉﾞ;👋Here+is+Ava.;Nice+to+meet+you+my+friend!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=9275F7&center=true&vCenter=true&width=435&lines=Nice+to+meet+you+my+friend;Here+is+Ava.;)](https://git.io/typing-svg)
 
 ### Tech Stack  
 
