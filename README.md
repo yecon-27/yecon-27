@@ -18,4 +18,4 @@
 ###  Intern  
 _Software Engineer Intern (Full-stack)_
 
-`2025.7`- `present` : Media Integration Data Technology Center - Data Elements Special Team
+`2025.7`- `8.29` : Media Integration Data Technology Center - Data Elements Special Team
