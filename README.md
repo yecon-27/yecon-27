@@ -19,3 +19,7 @@
 _Software Engineer Intern (Full-stack)_
 
 `2025.7`- `9` : Media Integration Data Technology Center - Data Elements Special Team
+
+###  Publication
+
+Input–Envelope–Output: Auditable Generative Music Rewards in Sensory-Sensitive Context (ACM 2026 Co-first author) https://arxiv.org/abs/2602.22813
