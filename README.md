@@ -22,4 +22,4 @@ _Software Engineer Intern (Full-stack)_
 
 ###  Publication
 
-Input–Envelope–Output: Auditable Generative Music Rewards in Sensory-Sensitive Context (ACM 2026 Co-first author) https://arxiv.org/abs/2602.22813
+Input–Envelope–Output: Auditable Generative Music Rewards in Sensory-Sensitive Context (CHI EA '26, co-first author) https://arxiv.org/abs/2602.22813
